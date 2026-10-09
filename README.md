@@ -1,0 +1,3 @@
+**Synth-O-Matic** is a Python script for 3D Slicer that generates synthetic CT (sCT) images from pelvic MRI. It combines N4 bias field correction, tissue segmentations, and adjustable soft-tissue and bone HU mappings. The interface supports parameter adjustment, image previews, and inspection of the conversion curve. Results can be exported as DICOM CT and RTSTRUCT using the SlicerRT extension.
+
+**The software is currently a beta version intended for research and development.** Functionality, the user interface, and documentation will continue to evolve. The Software not be validated for clinical use and therefore any clinical use is prohibited.
